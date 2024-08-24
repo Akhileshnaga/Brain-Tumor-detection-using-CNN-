@@ -1,0 +1,1 @@
+This project aims to develop a deep learning model using Convolutional Neural Networks (CNN) to detect brain tumors from MRI images. The model classifies images into two categories: tumor and no tumor. Early and accurate detection of brain tumors is critical for effective treatment and patient survival.
